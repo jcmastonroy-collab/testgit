@@ -1,0 +1,2 @@
+This is created to show how the file from repository is moved from github to the local storage without copying the entire data's and copying only the modified one.
+Here we use git pull function to do that.
